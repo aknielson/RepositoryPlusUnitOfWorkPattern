@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="c:\users\akn\documents\visual studio 2015\projects\repositoryplusunitofworkpattern\dbintegrationtests\orderedtest1.orderedtest" id="c57cc26d-06aa-4354-9bdc-575e35b927a8" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="47d87a8c-c6c0-c7d6-055e-73656e486231" name="InsertFullPerson" storage="bin\debug\dbintegrationtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6cbe150c-d3d3-363e-4d21-660201e23e55" name="InsertBasePerson" storage="bin\debug\dbintegrationtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="75ce8261-fffd-173b-6d57-a592ab42d75a" name="GetAllPeople" storage="bin\debug\dbintegrationtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="44459889-1160-0fe2-d453-69c1178f5378" name="DeleteSomething" storage="bin\debug\dbintegrationtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
